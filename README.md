@@ -10,12 +10,18 @@ que se encuentran en la base de datos
 Este proyecto fue creado con: Apache Netbeans 17, mysql-connector-java-8.0.30, apache-maven-3.8.2.
 
 
+Dependencias utilizadas: Spring Web, MySQL Driver, Thymeleaf(Template Engine), Spring Data JPA.
+
 (Eng)
 Project that pretends to be the simple work dashboard for a journalist, it can be modified, deleted, uploaded and see the news
 that are in the database
 
 
 This project was created with: Apache Netbeans 17, mysql-connector-java-8.0.30, apache-maven-3.8.2.
+
+
+Dependencies: Spring Web, MySQL Driver, Thymeleaf(Template Engine), Spring Data JPA.
+
 
 ## Instalación / Required Installation
 
