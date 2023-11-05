@@ -1,7 +1,7 @@
 ## Descripción / Description
 
 
-# Portfolio-SpringBoot
+# Portfolio-SpringMVC
 (Esp)
 Proyecto que simula ser el dashboard simple de trabajo para un periodista, se puede modificar, eliminar, cargar y ver las noticias
 que se encuentran en la base de datos
